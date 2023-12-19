@@ -1,0 +1,26 @@
+{
+    "name": "react-native-fusion-bundle",
+    "version": "12.19.1",
+    "description": "this is designed for bundle",
+    "homepage": "https://github.com/moumlove89/react-native-fusion-bundle",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-fusion-bundle"
+    ],
+    "author": {
+      "name": "fusion",
+      "email": "fusion@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/moumlove89/react-native-fusion-bundle.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
